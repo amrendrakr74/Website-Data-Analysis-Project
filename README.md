@@ -14,13 +14,21 @@ In this project, we analyze website user data to uncover meaningful insights abo
 🎯 Objectives
 
 Clean and preprocess raw website data
+
 Perform Exploratory Data Analysis (EDA)
+
 Identify:
+
 Traffic trends
+
 Top-performing pages
+
 Bounce rates
+
 User engagement patterns
+
 Create clear and impactful data visualizations
+
 
 🛠️ Tools & Technologies
 
@@ -38,27 +46,43 @@ Jupyter Notebook – Interactive analysis
 📊 Key Analysis Performed
 
 Data cleaning (handling missing values, formatting)
+
 Traffic analysis (daily/monthly trends)
+
 Page performance evaluation
+
 Bounce rate analysis
+
 User engagement insights
+
 Visualization of key metrics
+
 
 📈 Sample Insights
 
 (You can update this section after running your analysis)
 
 📌 Most traffic comes from specific peak hours/days
+
 📌 Certain pages have significantly higher bounce rates
+
 📌 User engagement varies across different sources
 
 
+
 📂 Project Structure
+
 📁 website-data-analysis
+
 │── 📄 README.md
+
 │── 📊 data.csv
+
 │── 📓 analysis.ipynb
+
 │── 📁 images (optional visualizations)
+
+
 
 
 🙌 Conclusion
