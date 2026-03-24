@@ -25,9 +25,13 @@ Create clear and impactful data visualizations
 🛠️ Tools & Technologies
 
 Python
+
 Pandas – Data manipulation & analysis
+
 Matplotlib – Data visualization
+
 Seaborn – Advanced visualizations
+
 Jupyter Notebook – Interactive analysis
 
 
