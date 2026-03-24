@@ -30,6 +30,8 @@ User engagement patterns
 Create clear and impactful data visualizations
 
 
+
+
 🛠️ Tools & Technologies
 
 Python
@@ -41,6 +43,8 @@ Matplotlib – Data visualization
 Seaborn – Advanced visualizations
 
 Jupyter Notebook – Interactive analysis
+
+
 
 
 📊 Key Analysis Performed
@@ -58,6 +62,8 @@ User engagement insights
 Visualization of key metrics
 
 
+
+
 📈 Sample Insights
 
 (You can update this section after running your analysis)
@@ -67,6 +73,7 @@ Visualization of key metrics
 📌 Certain pages have significantly higher bounce rates
 
 📌 User engagement varies across different sources
+
 
 
 
